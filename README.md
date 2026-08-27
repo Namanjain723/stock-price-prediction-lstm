@@ -49,4 +49,4 @@ jupyter notebook "STOCK PREDICTION (TASK-2).ipynb"
 
 ## 👤 Author
 **Naman Jain** — Data Analyst & AI Developer
-🌐 [Portfolio](https://pixlforgestudio.in/) · ✉️ info@pixlforgestudio.in · 🐙 [@Namanjain723](https://github.com/Namanjain723)
+🌐 [Portfolio](https://pixlforgestudio.in/) · ✉️ info@pixlforgestudio.in · 📬 namancric18@gmail.com · 🐙 [@Namanjain723](https://github.com/Namanjain723)
