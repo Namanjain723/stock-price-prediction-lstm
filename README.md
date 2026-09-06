@@ -38,7 +38,7 @@ A working deep-learning pipeline that captures temporal patterns in stock prices
 
 ## ▶️ Run
 ```bash
-git clone https://github.com/Namanjain723/Stock-prediction-.git
+git clone https://github.com/Namanjain723/stock-price-prediction-lstm.git
 pip install tensorflow scikit-learn pandas numpy matplotlib seaborn tqdm jupyter
 jupyter notebook "STOCK PREDICTION (TASK-2).ipynb"
 ```
