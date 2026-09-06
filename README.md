@@ -18,17 +18,17 @@
 ## 📌 Overview
 
 This project predicts **Netflix (NFLX) stock closing prices** from historical market data
-using an **LSTM (Long Short-Term Memory)** neural network — a recurrent architecture built
+using an **LSTM (Long Short-Term Memory)** neural network - a recurrent architecture built
 for sequential, time-dependent data.
 
 ## 🗂️ Data
-`NFLX.csv` — historical Netflix OHLC price history (Open, High, Low, Close, Volume).
+`NFLX.csv` - historical Netflix OHLC price history (Open, High, Low, Close, Volume).
 
 ## 🔬 Approach
 1. **Explore** the price history with Matplotlib / Seaborn to understand trend and volatility.
-2. **Pre-process** — scale closing prices with `MinMaxScaler` and build rolling look-back sequences.
-3. **Model** — a Keras `Sequential` network with stacked **LSTM** + `Dense` layers.
-4. **Train & evaluate** — fit on the training window, predict on unseen data, and **plot predicted vs actual** prices.
+2. **Pre-process** - scale closing prices with `MinMaxScaler` and build rolling look-back sequences.
+3. **Model** - a Keras `Sequential` network with stacked **LSTM** + `Dense` layers.
+4. **Train & evaluate** - fit on the training window, predict on unseen data, and **plot predicted vs actual** prices.
 
 ## 💡 Outcome
 A working deep-learning pipeline that captures temporal patterns in stock prices and visualises how closely the model tracks real market movement.
@@ -43,10 +43,10 @@ pip install tensorflow scikit-learn pandas numpy matplotlib seaborn tqdm jupyter
 jupyter notebook "STOCK PREDICTION (TASK-2).ipynb"
 ```
 
-> ⚠️ Educational project — not financial advice.
+> ⚠️ Educational project - not financial advice.
 
 ---
 
 ## 👤 Author
-**Naman Jain** — Data Analyst & AI Developer
+**Naman Jain** - Data Analyst & AI Developer
 🌐 [Portfolio](https://pixlforgestudio.in/) · ✉️ info@pixlforgestudio.in · 📬 namancric18@gmail.com · 🐙 [@Namanjain723](https://github.com/Namanjain723)
